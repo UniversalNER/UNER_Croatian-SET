@@ -10953,7 +10953,7 @@
 5	kako	_
 6	raste	_
 7	broj	_
-8	Europljana	B-PER
+8	Europljana	B-OTH
 9	suočenih	_
 10	sa	_
 11	siromaštvom	_
@@ -10964,7 +10964,7 @@
 2	od	_
 3	dvije	_
 4	trećine	_
-5	Grka	B-PER
+5	Grka	B-OTH
 6	kaže	_
 7	kako	_
 8	su	_
@@ -11031,7 +11031,7 @@
 # sent_id = set.hr-s619
 # text = 60% Europljana smatra kako je siromaštvo na kontinentu povećano, navodi se u istraživanju Eurobarometra o socijalnom učinku globalne financijske krize, objavljenom u utorak, 22. lipnja.
 1	60%	_
-2	Europljana	B-PER
+2	Europljana	B-OTH
 3	smatra	_
 4	kako	_
 5	je	_
@@ -11883,7 +11883,7 @@
 5	za	_
 6	žene	_
 7	,	_
-8	Grkinje	B-PER
+8	Grkinje	B-OTH
 9	Vasiliki	B-PER
 10	Karantasiou	I-PER
 11	i	_
@@ -11893,7 +11893,7 @@
 15	su	_
 16	lošije	_
 17	od	_
-18	Brazilki	B-PER
+18	Brazilki	B-OTH
 19	Renate	B-PER
 20	Ribeiro	I-PER
 21	i	_
@@ -11933,7 +11933,7 @@
 6	izgubila	_
 7	je	_
 8	od	_
-9	Koreanke	B-PER
+9	Koreanke	B-OTH
 10	Park	B-PER
 11	Sung-Hyun	I-PER
 12	u	_
@@ -11959,7 +11959,7 @@
 8	izgubio	_
 9	je	_
 10	od	_
-11	Gruzijca	B-PER
+11	Gruzijca	B-OTH
 12	Ramaza	B-PER
 13	Nozadzea	I-PER
 14	u	_
@@ -12022,7 +12022,7 @@
 8	je	_
 9	pobjednik	_
 10	bio	_
-11	Kinez	B-PER
+11	Kinez	B-OTH
 12	Yang	B-PER
 13	Wei	I-PER
 14	.	_
@@ -12659,7 +12659,7 @@
 # sent_id = set.hr-s691
 # text = Kosovski Srbi napali međunarodne snage
 1	Kosovski	_
-2	Srbi	B-PER
+2	Srbi	B-OTH
 3	napali	_
 4	međunarodne	_
 5	snage	_
@@ -12708,7 +12708,7 @@
 # sent_id = set.hr-s693
 # text = Kosovski Srbi bacaju kamenje na vojnike KFOR-a u ponedjeljak (17. ožujak) u Mitrovici.
 1	Kosovski	_
-2	Srbi	B-PER
+2	Srbi	B-OTH
 3	bacaju	_
 4	kamenje	_
 5	na	_
@@ -12748,7 +12748,7 @@
 20	grada	_
 21	Mitrovice	B-LOC
 22	naseljenih	_
-23	Srbima	B-PER
+23	Srbima	B-OTH
 24	nakon	_
 25	što	_
 26	su	_
@@ -12891,7 +12891,7 @@
 6	su	_
 7	se	_
 8	stotine	_
-9	Srba	B-PER
+9	Srba	B-OTH
 10	sukobile	_
 11	s	_
 12	međunarodnim	_
@@ -13056,7 +13056,7 @@
 42	kojem	_
 43	većinom	_
 44	žive	_
-45	Srbi	B-PER
+45	Srbi	B-OTH
 46	.	_
 
 # sent_id = set.hr-s705
@@ -13065,7 +13065,7 @@
 2	se	_
 3	izvješćuje	_
 4	53	_
-5	Srba	B-PER
+5	Srba	B-OTH
 6	uhićeno	_
 7	je	_
 8	u	_
@@ -15026,7 +15026,7 @@
 # text = Čelnici bosanskih Srba iz razdoblja rata Radovan Karadžić i Ratko Mladić također se još uvijek nalaze u bijegu.
 1	Čelnici	_
 2	bosanskih	_
-3	Srba	B-PER
+3	Srba	B-OTH
 4	iz	_
 5	razdoblja	_
 6	rata	_
@@ -15116,7 +15116,7 @@
 11	kineskog	_
 12	zida	_
 13	između	_
-14	Srba	B-PER
+14	Srba	B-OTH
 15	i	_
 16	Miloševićevih	B-PER
 17	pristaša	_
@@ -15381,7 +15381,7 @@
 7	i	_
 8	sporta	_
 9	:	_
-10	Hrvatica	B-PER
+10	Hrvatica	B-OTH
 11	Janica	B-PER
 12	Kostelić	I-PER
 13	propustit	_
@@ -15465,7 +15465,7 @@
 4	svjetskih	_
 5	skijašica	_
 6	,	_
-7	Hrvatica	B-PER
+7	Hrvatica	B-OTH
 8	Janica	B-PER
 9	Kostelić	I-PER
 10	,	_
@@ -15522,7 +15522,7 @@
 11	godine	_
 12	,	_
 13	pobijedivši	_
-14	Austrijanca	B-PER
+14	Austrijanca	B-OTH
 15	Juergena	B-PER
 16	Melzera	I-PER
 17	4-6	_
@@ -15571,7 +15571,7 @@
 3	u	_
 4	finalu	_
 5	pobijedio	_
-6	Britanca	B-PER
+6	Britanca	B-OTH
 7	Alexa	B-PER
 8	Bogdanovića	I-PER
 9	6-4	_
@@ -16666,7 +16666,7 @@
 37	u	_
 38	kojem	_
 39	su	_
-40	Srbi	B-PER
+40	Srbi	B-OTH
 41	većina	_
 42	.	_
 
@@ -16944,7 +16944,7 @@
 9	igre	I-OTH
 10	,	_
 11	a	_
-12	Srpkinja	B-PER
+12	Srpkinja	B-OTH
 13	Jelena	B-PER
 14	Janković	I-PER
 15	osvojila	_
@@ -17203,7 +17203,7 @@
 4	Velike	B-LOC
 5	Britanije	I-LOC
 6	i	_
-7	Srpkinja	B-PER
+7	Srpkinja	B-OTH
 8	Jelena	B-PER
 9	Janković	I-PER
 10	osvojili	_
@@ -17228,7 +17228,7 @@
 29	iz	_
 30	Švedske	B-LOC
 31	i	_
-32	Australku	B-PER
+32	Australku	B-OTH
 33	Aliciu	B-PER
 34	Molik	I-PER
 35	6-4	_
@@ -20318,7 +20318,7 @@
 # text = Međutim, Turci od tada odbijaju dozvoliti brodovima i zrakoplovima ciparskih Grka pristajanje u njihove luke, odnosno slijetanje u njihove zračne luke; Ankara ustrajava da EU prvo ispuni svoje obećanje iz 2004. godine o ukidanju gospodarske izolacije zajednici ciparskih Turaka.
 1	Međutim	_
 2	,	_
-3	Turci	B-PER
+3	Turci	B-OTH
 4	od	_
 5	tada	_
 6	odbijaju	_
@@ -20327,7 +20327,7 @@
 9	i	_
 10	zrakoplovima	_
 11	ciparskih	_
-12	Grka	B-PER
+12	Grka	B-OTH
 13	pristajanje	_
 14	u	_
 15	njihove	_
@@ -20357,7 +20357,7 @@
 39	izolacije	_
 40	zajednici	_
 41	ciparskih	_
-42	Turaka	B-PER
+42	Turaka	B-OTH
 43	.	_
 
 # sent_id = set.hr-s1153
@@ -20385,7 +20385,7 @@
 21	kratkotrajnog	_
 22	puča	_
 23	ciparskih	_
-24	Grka	B-PER
+24	Grka	B-OTH
 25	,	_
 26	poduprtog	_
 27	od	_
@@ -20930,7 +20930,7 @@
 16	,	_
 17	gdje	_
 18	će	_
-19	Bugari	B-PER
+19	Bugari	B-OTH
 20	izgraditi	_
 21	skladišne	_
 22	kapacitete	_
@@ -21410,7 +21410,7 @@
 
 # sent_id = set.hr-s1240
 # text = Hrvatica Blanka Vlašić postala je u nedjelju (9. ožujka) svjetska prvakinja u skoku u vis u dvorani na 12. IAAF Svjetskom prvenstvu u Valenciji.
-1	Hrvatica	B-PER
+1	Hrvatica	B-OTH
 2	Blanka	B-PER
 3	Vlašić	I-PER
 4	postala	_
@@ -24987,7 +24987,7 @@
 # sent_id = set.hr-s1404
 # text = Kosovski Albanci -- koji čine 90 posto od ukupno 2 milijuna stanovnika pokrajine -- prihvatili su Ahtisaarijev plan.
 1	Kosovski	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	--	_
 4	koji	_
 5	čine	_
@@ -25152,7 +25152,7 @@
 2	Shehu	I-PER
 3	,	_
 4	kosovski	_
-5	Albanac	B-PER
+5	Albanac	B-OTH
 6	koji	_
 7	je	_
 8	izgubio	_
@@ -25173,7 +25173,7 @@
 23	ono	_
 24	što	_
 25	su	_
-26	Srbi	B-PER
+26	Srbi	B-OTH
 27	učinili	_
 28	ovdje	_
 29	...	_
@@ -25385,7 +25385,7 @@
 28	će	_
 29	patiti	_
 30	kosovski	_
-31	Srbi	B-PER
+31	Srbi	B-OTH
 32	,	_
 33	što	_
 34	bi	_
@@ -28577,7 +28577,7 @@
 25	pozvati	_
 26	izaslanstva	_
 27	kosovskih	_
-28	Albanaca	B-PER
+28	Albanaca	B-OTH
 29	i	_
 30	Srbije	B-LOC
 31	da	_
@@ -29504,7 +29504,7 @@
 
 # sent_id = set.hr-s1633
 # text = Nijemci nude 3.500 eura po dionici, ali bez spominjanja socijalnog programa, dok srbijanski tajkuni još uvijek nisu javno priopćili svoje ponude.
-1	Nijemci	B-PER
+1	Nijemci	B-OTH
 2	nude	_
 3	3.500	_
 4	eura	_
@@ -30487,7 +30487,7 @@
 7	ubojstvo	_
 8	nekoliko	_
 9	tisuća	_
-10	Muslimana	B-PER
+10	Muslimana	B-OTH
 11	u	_
 12	Srebrenici	B-LOC
 13	u	_
@@ -30508,7 +30508,7 @@
 8	počinjene	_
 9	nad	_
 10	kosovskim	_
-11	Albancima	B-PER
+11	Albancima	B-OTH
 12	1999.	_
 13	godine	_
 14	.	_
@@ -31697,7 +31697,7 @@
 13	tekst	_
 14	o	_
 15	školovanju	_
-16	Roma	B-PER
+16	Roma	B-OTH
 17	;	_
 18	u	_
 19	toj	_
@@ -31770,7 +31770,7 @@
 
 # sent_id = set.hr-s1721
 # text = Rumunj Marian Dragulescu osvojio je dva zlatna odličja na 39. Svjetskom prvenstvu u umjetničkoj gimnastici, koje je od 13 do 21. listopada održano u Aarhusu u Danskoj.
-1	Rumunj	B-PER
+1	Rumunj	B-OTH
 2	Marian	B-PER
 3	Dragulescu	I-PER
 4	osvojio	_
@@ -34016,7 +34016,7 @@
 26	do	_
 27	15	_
 28	posto	_
-29	Makedonaca	B-PER
+29	Makedonaca	B-OTH
 30	koristi	_
 31	Internet	_
 32	,	_
@@ -35003,7 +35003,7 @@
 24	odluka	_
 25	stranke	_
 26	bosanskih	_
-27	Srba	B-PER
+27	Srba	B-OTH
 28	o	_
 29	povlačenju	_
 30	iz	_
@@ -35335,7 +35335,7 @@
 17	i	_
 18	entitet	_
 19	bosanskih	_
-20	Srba	B-PER
+20	Srba	B-OTH
 21	izabrali	_
 22	bi	_
 23	"	_
@@ -35643,7 +35643,7 @@
 8	Brčkom	B-LOC
 9	osudio	_
 10	je	_
-11	Muslimane	B-PER
+11	Muslimane	B-OTH
 12	Fikreta	B-PER
 13	Hasanovića	I-PER
 14	i	_
@@ -35658,7 +35658,7 @@
 23	zločina	_
 24	počinjenih	_
 25	nad	_
-26	Srbima	B-PER
+26	Srbima	B-OTH
 27	.	_
 
 # sent_id = set.hr-s1853
@@ -35680,7 +35680,7 @@
 4	silovali	_
 5	su	_
 6	jednu	_
-7	Srpkinju	B-PER
+7	Srpkinju	B-OTH
 8	u	_
 9	veljači	_
 10	1993.	_
@@ -36452,7 +36452,7 @@
 4	pripadnosti	_
 5	bio	_
 6	kosovski	_
-7	Albanac	B-PER
+7	Albanac	B-OTH
 8	,	_
 9	no	_
 10	premošćivao	_
@@ -36542,9 +36542,9 @@
 14	svojevrsna	_
 15	veza	_
 16	među	_
-17	Albancima	B-PER
+17	Albancima	B-OTH
 18	i	_
-19	Srbima	B-PER
+19	Srbima	B-OTH
 20	.	_
 
 # sent_id = set.hr-s2005
@@ -36879,14 +36879,14 @@
 3	je	_
 4	bio	_
 5	najveći	_
-6	Srbin	B-PER
+6	Srbin	B-OTH
 7	među	_
-8	Albancima	B-PER
+8	Albancima	B-OTH
 9	i	_
 10	najveći	_
-11	Albanac	B-PER
+11	Albanac	B-OTH
 12	među	_
-13	Srbima	B-PER
+13	Srbima	B-OTH
 14	"	_
 15	,	_
 16	rekao	_
@@ -38012,7 +38012,7 @@
 # text = Mali broj Albanaca čezne za komunizmom
 1	Mali	_
 2	broj	_
-3	Albanaca	B-PER
+3	Albanaca	B-OTH
 4	čezne	_
 5	za	_
 6	komunizmom	_
@@ -38412,7 +38412,7 @@
 12	su	_
 13	loše	_
 14	i	_
-15	Albanci	B-PER
+15	Albanci	B-OTH
 16	su	_
 17	izgubili	_
 18	milijarde	_
@@ -38452,7 +38452,7 @@
 
 # sent_id = set.hr-s2153
 # text = Albanci su "uspjeli srušiti komunizam, ali nisu navikli na novi sustav koji su sami sebi donijeli", kaže student međunarodnih odnosa Ardit Bido.
-1	Albanci	B-PER
+1	Albanci	B-OTH
 2	su	_
 3	"	_
 4	uspjeli	_
@@ -38490,7 +38490,7 @@
 6	zaprekama	_
 7	na	_
 8	putu	_
-9	Albanci	B-PER
+9	Albanci	B-OTH
 10	ostaju	_
 11	tvrdoglavi	_
 12	glede	_
@@ -41904,14 +41904,14 @@
 19	zločina	_
 20	počinjenih	_
 21	protiv	_
-22	Srba	B-PER
+22	Srba	B-OTH
 23	,	_
-24	Hrvata	B-PER
+24	Hrvata	B-OTH
 25	i	_
-26	Bošnjaka	B-PER
+26	Bošnjaka	B-OTH
 27	,	_
 28	te	_
-29	Albanaca	B-PER
+29	Albanaca	B-OTH
 30	i	_
 31	svih	_
 32	drugih	_
@@ -43819,7 +43819,7 @@
 7	oporbene	_
 8	stranke	_
 9	ciparskih	_
-10	Grka	B-PER
+10	Grka	B-OTH
 11	Demokratski	B-ORG
 12	zbor	I-ORG
 13	,	_
@@ -43918,7 +43918,7 @@
 32	je	_
 33	većina	_
 34	ciparskih	_
-35	Turaka	B-PER
+35	Turaka	B-OTH
 36	prihvatila	_
 37	.	_
 
@@ -43936,7 +43936,7 @@
 10	pod	_
 11	nadzorom	_
 12	ciparskih	_
-13	Grka	B-PER
+13	Grka	B-OTH
 14	ušao	_
 15	u	_
 16	EU	B-ORG
@@ -43976,7 +43976,7 @@
 15	vojnog	_
 16	udara	_
 17	ciparskih	_
-18	Grka	B-PER
+18	Grka	B-OTH
 19	kojeg	_
 20	je	_
 21	poduprla	_
@@ -44072,7 +44072,7 @@
 10	priznanju	_
 11	vlasti	_
 12	ciparskih	_
-13	Grka	B-PER
+13	Grka	B-OTH
 14	.	_
 
 # sent_id = set.hr-s2472
@@ -44109,12 +44109,12 @@
 30	i	_
 31	zrakoplove	_
 32	ciparskih	_
-33	Grka	B-PER
+33	Grka	B-OTH
 34	sve	_
 35	dok	_
 36	zajednica	_
 37	ciparskih	_
-38	Turaka	B-PER
+38	Turaka	B-OTH
 39	bude	_
 40	živjela	_
 41	u	_
@@ -44655,7 +44655,7 @@
 
 # sent_id = set.hr-s2501
 # text = Srbi plaćaju za brojne proizvode više cijene nego građani drugih zemalja jugoistočne Europe, i ne očekuje se skoro obuzdavanje inflacije.
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	plaćaju	_
 3	za	_
 4	brojne	_
@@ -44717,7 +44717,7 @@
 4	znatan	_
 5	dio	_
 6	plaća	_
-7	Srba	B-PER
+7	Srba	B-OTH
 8	.	_
 
 # sent_id = set.hr-s2504
@@ -45449,7 +45449,7 @@
 
 # sent_id = set.hr-s2535
 # text = Srbi raspravljaju o članstvu u NATO-u
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	raspravljaju	_
 3	o	_
 4	članstvu	_
@@ -45985,7 +45985,7 @@
 
 # sent_id = set.hr-s2556
 # text = Crnogorci razmatraju korist -- i cijenu -- tranzicije s komunizma.
-1	Crnogorci	B-PER
+1	Crnogorci	B-OTH
 2	razmatraju	_
 3	korist	_
 4	--	_
@@ -46008,7 +46008,7 @@
 2	komunizma	_
 3	donijela	_
 4	je	_
-5	Crnogorcima	B-PER
+5	Crnogorcima	B-OTH
 6	višestranačku	_
 7	demokraciju	_
 8	,	_
@@ -46187,7 +46187,7 @@
 1	Danas	_
 2	,	_
 3	prosječan	_
-4	Crnogorac	B-PER
+4	Crnogorac	B-OTH
 5	živi	_
 6	lošije	_
 7	nego	_
@@ -46429,7 +46429,7 @@
 2	pitanje	_
 3	jesu	_
 4	li	_
-5	Crnogorci	B-PER
+5	Crnogorci	B-OTH
 6	danas	_
 7	slobodniji	_
 8	,	_
@@ -46472,7 +46472,7 @@
 7	Vijesti	B-ORG
 8	,	_
 9	mnogi	_
-10	Crnogorci	B-PER
+10	Crnogorci	B-OTH
 11	jednostavno	_
 12	osjećaju	_
 13	kako	_
@@ -46609,7 +46609,7 @@
 29	dogoditi	_
 30	--	_
 31	ti	_
-32	Crnogorci	B-PER
+32	Crnogorci	B-OTH
 33	počet	_
 34	će	_
 35	misliti	_
@@ -47905,9 +47905,9 @@
 7	,	_
 8	uključujući	_
 9	nekoliko	_
-10	Turaka	B-PER
+10	Turaka	B-OTH
 11	i	_
-12	Hrvata	B-PER
+12	Hrvata	B-OTH
 13	.	_
 
 # sent_id = set.hr-s2666
@@ -51358,7 +51358,7 @@
 35	postići	_
 36	mir	_
 37	s	_
-38	Palestincima	B-PER
+38	Palestincima	B-OTH
 39	,	_
 40	ali	_
 41	je	_
@@ -53165,7 +53165,7 @@
 5	naslov	_
 6	je	_
 7	otišao	_
-8	Slovenkama	B-PER
+8	Slovenkama	B-OTH
 9	.	_
 
 # sent_id = set.hr-s2900
@@ -53229,7 +53229,7 @@
 1	Raniji	_
 2	izbornik	_
 3	,	_
-4	Slovenac	B-PER
+4	Slovenac	B-OTH
 5	Srećko	B-PER
 6	Katanec	I-PER
 7	,	_
@@ -54432,9 +54432,9 @@
 10	--	_
 11	Bošnjak	B-PER
 12	,	_
-13	Hrvat	B-PER
+13	Hrvat	B-OTH
 14	i	_
-15	Srbin	B-PER
+15	Srbin	B-OTH
 16	--	_
 17	kao	_
 18	i	_
@@ -54443,7 +54443,7 @@
 21	Špirić	I-PER
 22	,	_
 23	bosanski	_
-24	Srbin	B-PER
+24	Srbin	B-OTH
 25	.	_
 
 # sent_id = set.hr-s2951
@@ -55318,7 +55318,7 @@
 3	Online	I-ORG
 4	upozorio	_
 5	je	_
-6	Crnogorce	B-PER
+6	Crnogorce	B-OTH
 7	da	_
 8	budu	_
 9	pozorni	_
@@ -55784,7 +55784,7 @@
 35	kako	_
 36	bi	_
 37	većina	_
-38	Rumunja	B-PER
+38	Rumunja	B-OTH
 39	više	_
 40	voljela	_
 41	ostanak	_
@@ -56813,7 +56813,7 @@
 # text = Svi su Albanci radili za tu piramidu, uključujući i mene ", rekao je Maks Velo, poznati albanski arhitekt.
 1	Svi	_
 2	su	_
-3	Albanci	B-PER
+3	Albanci	B-OTH
 4	radili	_
 5	za	_
 6	tu	_
@@ -57366,7 +57366,7 @@
 # sent_id = set.hr-s3122
 # text = "Rumunji ne znaju prosvjedovati", rekao je jedan od komentatora, koji se predstavio samo kao Marcos i tvrdi kako je očekivanje da bi prosvjed mogao imati velik utjecaj bilo iluzija.
 1	"	_
-2	Rumunji	B-PER
+2	Rumunji	B-OTH
 3	ne	_
 4	znaju	_
 5	prosvjedovati	_
@@ -57893,7 +57893,7 @@
 8	nenasilja	_
 9	i	_
 10	prava	_
-11	Kurda	B-PER
+11	Kurda	B-OTH
 12	,	_
 13	budi	_
 14	nade	_
@@ -58026,7 +58026,7 @@
 38	nenasilno	_
 39	rješavanje	_
 40	problema	_
-41	Kurda	B-PER
+41	Kurda	B-OTH
 42	u	_
 43	Turskoj	B-LOC
 44	.	_
@@ -58271,7 +58271,7 @@
 16	ekspanziju	_
 17	kulturnih	_
 18	prava	_
-19	Kurda	B-PER
+19	Kurda	B-OTH
 20	.	_
 
 # sent_id = set.hr-s3158
@@ -59812,7 +59812,7 @@
 4	Vojska	B-ORG
 5	Srbije	I-ORG
 6	zaštititi	_
-7	Srbe	B-PER
+7	Srbe	B-OTH
 8	,	_
 9	Šutanovac	B-PER
 10	je	_
@@ -60151,9 +60151,9 @@
 13	su	_
 14	bili	_
 15	i	_
-16	Srbi	B-PER
+16	Srbi	B-OTH
 17	i	_
-18	Albanci	B-PER
+18	Albanci	B-OTH
 19	"	_
 20	,	_
 21	dodao	_
@@ -60498,7 +60498,7 @@
 42	Alexandera	B-PER
 43	Botsan-Kharchenka	I-PER
 44	i	_
-45	Nijemca	B-PER
+45	Nijemca	B-OTH
 46	Wolfganga	B-PER
 47	Ischingera	I-PER
 48	,	_
@@ -60753,7 +60753,7 @@
 # sent_id = set.hr-s3298
 # text = Kosovski Albanci, koji čine 90 posto od ukupno 2 milijuna stanovnika pokrajine, prihvatili su plan, iako ne bi odmah dobili punu neovisnost od Srbije koju su tražili.
 1	Kosovski	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	,	_
 4	koji	_
 5	čine	_
@@ -60807,7 +60807,7 @@
 2	politički	_
 3	čelnik	_
 4	kosovskih	_
-5	Albanaca	B-PER
+5	Albanaca	B-OTH
 6	upozorio	_
 7	je	_
 8	u	_
@@ -61528,7 +61528,7 @@
 
 # sent_id = set.hr-s3336
 # text = Srbi se još uvijek sjećaju kada su tijekom devedesetih nosili devetoznamenkaste novčanice u svojim lisnicima.
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	se	_
 3	još	_
 4	uvijek	_
@@ -61617,7 +61617,7 @@
 
 # sent_id = set.hr-s3342
 # text = Makedonci koji su zainteresirani poboljšati svoje računalne vještine mogu dobiti besplatnu obuku u okviru vladina novog programa pod nazivom "Makedonija -- Zemlja računalnih stručnjaka".
-1	Makedonci	B-PER
+1	Makedonci	B-OTH
 2	koji	_
 3	su	_
 4	zainteresirani	_
@@ -62421,7 +62421,7 @@
 1	Znamo	_
 2	da	_
 3	među	_
-4	Bošnjacima	B-PER
+4	Bošnjacima	B-OTH
 5	u	_
 6	domovini	_
 7	i	_
@@ -62601,7 +62601,7 @@
 6	i	_
 7	susjeda	_
 8	,	_
-9	Amerikanaca	B-PER
+9	Amerikanaca	B-OTH
 10	,	_
 11	koji	_
 12	još	_
@@ -62612,7 +62612,7 @@
 17	se	_
 18	upoznati	_
 19	s	_
-20	muslimanima	B-PER
+20	muslimanima	B-OTH
 21	"	_
 22	,	_
 23	rekao	_
@@ -62718,7 +62718,7 @@
 12	D	I-PER
 13	,	_
 14	25-godišnji	_
-15	Afganistanac	B-PER
+15	Afganistanac	B-OTH
 16	,	_
 17	zajedno	_
 18	s	_
@@ -63364,7 +63364,7 @@
 
 # sent_id = set.hr-s3407
 # text = Srbin poginuo u izgredu na sjeveru Kosova, i dalje napetosti na granici
-1	Srbin	B-PER
+1	Srbin	B-OTH
 2	poginuo	_
 3	u	_
 4	izgredu	_
@@ -63419,7 +63419,7 @@
 # sent_id = set.hr-s3410
 # text = Jedan Srbin poginuo je, a još dvojica su ranjeni nakon što su se skupine Albanaca i Srba sukobile u naselju Brđani na sjeveru Kosova u srijedu (9. studenog).
 1	Jedan	_
-2	Srbin	B-PER
+2	Srbin	B-OTH
 3	poginuo	_
 4	je	_
 5	,	_
@@ -63433,9 +63433,9 @@
 13	su	_
 14	se	_
 15	skupine	_
-16	Albanaca	B-PER
+16	Albanaca	B-OTH
 17	i	_
-18	Srba	B-PER
+18	Srba	B-OTH
 19	sukobile	_
 20	u	_
 21	naselju	_
@@ -63545,7 +63545,7 @@
 10	od	_
 11	kada	_
 12	su	_
-13	Albanci	B-PER
+13	Albanci	B-OTH
 14	počeli	_
 15	obnavljati	_
 16	svoje	_
@@ -63593,7 +63593,7 @@
 18	što	_
 19	se	_
 20	dogodi	_
-21	Srbima	B-PER
+21	Srbima	B-OTH
 22	na	_
 23	Kosovu	B-LOC
 24	i	_
@@ -63770,7 +63770,7 @@
 13	--	_
 14	gdje	_
 15	su	_
-16	Srbi	B-PER
+16	Srbi	B-OTH
 17	većina	_
 18	,	_
 19	ali	_
@@ -63858,7 +63858,7 @@
 17	rekao	_
 18	kako	_
 19	će	_
-20	Srbi	B-PER
+20	Srbi	B-OTH
 21	na	_
 22	sjeveru	_
 23	nastaviti	_
@@ -63961,7 +63961,7 @@
 2	je	_
 3	pitanje	_
 4	[	_
-5	Srba	B-PER
+5	Srba	B-OTH
 6	]	_
 7	koji	_
 8	se	_
@@ -67709,7 +67709,7 @@
 
 # sent_id = set.hr-s3658
 # text = Bosanci se pripremaju za utjecaj izmjene, za koju brojni ekonomski stručnjaci očekuju kako će izazvati povećanje cijena do 20 posto.
-1	Bosanci	B-PER
+1	Bosanci	B-OTH
 2	se	_
 3	pripremaju	_
 4	za	_
@@ -68711,7 +68711,7 @@
 
 # sent_id = set.hr-s3712
 # text = Moldavci opet izlaze na birališta
-1	Moldavci	B-PER
+1	Moldavci	B-OTH
 2	opet	_
 3	izlaze	_
 4	na	_
@@ -68857,7 +68857,7 @@
 
 # sent_id = set.hr-s3720
 # text = Moldavci su umorni i zbunjeni.
-1	Moldavci	B-PER
+1	Moldavci	B-OTH
 2	su	_
 3	umorni	_
 4	i	_
@@ -73225,7 +73225,7 @@
 12	koje	_
 13	su	_
 14	imali	_
-15	Iranci	B-PER
+15	Iranci	B-OTH
 16	u	_
 17	obogaćivanju	_
 18	urana	_
@@ -82714,7 +82714,7 @@
 3	ne	_
 4	zato	_
 5	što	_
-6	Talijani	B-PER
+6	Talijani	B-OTH
 7	žele	_
 8	zaraditi	_
 9	na	_
@@ -82779,7 +82779,7 @@
 
 # sent_id = news.hr-s380
 # text = Talijani su se iz svakog drugog Ferrarija, Maseratija, Lamborghinija ili Bugattija okretali za njom.
-1	Talijani	B-PER
+1	Talijani	B-OTH
 2	su	_
 3	se	_
 4	iz	_
@@ -82890,7 +82890,7 @@
 6	jasno	_
 7	da	_
 8	toliko	_
-9	Talijana	B-PER
+9	Talijana	B-OTH
 10	tako	_
 11	ludo	_
 12	i	_
@@ -82903,7 +82903,7 @@
 19	Ferrari	B-ORG
 20	dovedu	_
 21	jednog	_
-22	Španjolca	B-PER
+22	Španjolca	B-OTH
 23	Fernanda	B-PER
 24	Alonsa	I-PER
 25	.	_
@@ -82945,7 +82945,7 @@
 15	,	_
 16	otkako	_
 17	je	_
-18	Španjolac	B-PER
+18	Španjolac	B-OTH
 19	izgubio	_
 20	naslov	_
 21	svjetskog	_
@@ -82955,7 +82955,7 @@
 25	1	I-OTH
 26	,	_
 27	ali	_
-28	Talijani	B-PER
+28	Talijani	B-OTH
 29	su	_
 30	i	_
 31	dalje	_
@@ -82973,7 +82973,7 @@
 5	-	_
 6	mrmljala	_
 7	je	_
-8	Talijanka	B-PER
+8	Talijanka	B-OTH
 9	.	_
 
 # sent_id = news.hr-s392
@@ -82996,7 +82996,7 @@
 7	nas	_
 8	zbog	_
 9	nekog	_
-10	Španjolca	B-PER
+10	Španjolca	B-OTH
 11	izbaci	_
 12	na	_
 13	pola	_
@@ -83077,7 +83077,7 @@
 # text = Hvalile su Talijanke crvene jurilice i dalje nas nastavile vući za rukav.
 1	Hvalile	_
 2	su	_
-3	Talijanke	B-PER
+3	Talijanke	B-OTH
 4	crvene	_
 5	jurilice	_
 6	i	_
@@ -83202,7 +83202,7 @@
 4	prvi	_
 5	pogled	_
 6	,	_
-7	Talijanka	B-PER
+7	Talijanka	B-OTH
 8	će	_
 9	ti	_
 10	nastaviti	_
@@ -83306,7 +83306,7 @@
 12	da	_
 13	bi	_
 14	nas	_
-15	Talijanka	B-PER
+15	Talijanka	B-OTH
 16	uspjela	_
 17	nagovoriti	_
 18	i	_
@@ -83542,7 +83542,7 @@
 4	poklonio	_
 5	pobjedu	_
 6	onom	_
-7	Nijemcu	B-PER
+7	Nijemcu	B-OTH
 8	-	_
 9	ubacio	_
 10	se	_
@@ -83550,7 +83550,7 @@
 12	od	_
 13	vodiča	_
 14	,	_
-15	Britanac	B-PER
+15	Britanac	B-OTH
 16	kojemu	_
 17	,	_
 18	nažalost	_
@@ -83646,7 +83646,7 @@
 # text = - Mi Talijani smo jako temperamentni.
 1	-	_
 2	Mi	_
-3	Talijani	B-PER
+3	Talijani	B-OTH
 4	smo	_
 5	jako	_
 6	temperamentni	_
@@ -83676,12 +83676,12 @@
 2	čudno	_
 3	za	_
 4	jednog	_
-5	Španjolca	B-PER
+5	Španjolca	B-OTH
 6	.	_
 
 # sent_id = news.hr-s438
 # text = Španjolac miran?
-1	Španjolac	B-PER
+1	Španjolac	B-OTH
 2	miran	_
 3	?	_
 
@@ -83693,7 +83693,7 @@
 4	onda	_
 5	odgovarao	_
 6	jedan	_
-7	Nijemac	B-PER
+7	Nijemac	B-OTH
 8	kao	_
 9	što	_
 10	je	_
@@ -83707,7 +83707,7 @@
 3	je	_
 4	živcirao	_
 5	sve	_
-6	Talijane	B-PER
+6	Talijane	B-OTH
 7	,	_
 8	ali	_
 9	opet	_
@@ -83855,10 +83855,10 @@
 34	jedan	_
 35	iz	_
 36	grupe	_
-37	Nijemaca	B-PER
+37	Nijemaca	B-OTH
 38	,	_
 39	ali	_
-40	Talijane	B-PER
+40	Talijane	B-OTH
 41	ovih	_
 42	dana	_
 43	ništa	_
@@ -84008,7 +84008,7 @@
 31	objasnili	_
 32	su	_
 33	vodiču	_
-34	Nijemci	B-PER
+34	Nijemci	B-OTH
 35	.	_
 
 # sent_id = news.hr-s454
@@ -84165,7 +84165,7 @@
 9	-	_
 10	rekao	_
 11	je	_
-12	Britanac	B-PER
+12	Britanac	B-OTH
 13	.	_
 
 # sent_id = news.hr-s463
@@ -84345,7 +84345,7 @@
 23	mu	_
 24	,	_
 25	reći	_
-26	Talijanima	B-PER
+26	Talijanima	B-OTH
 27	bit	_
 28	će	_
 29	bolje	_
@@ -88920,7 +88920,7 @@
 12	prvu	_
 13	priču	_
 14	o	_
-15	Indijancima	B-PER
+15	Indijancima	B-OTH
 16	,	_
 17	koju	_
 18	mu	_
@@ -89906,7 +89906,7 @@
 5	pisac	_
 6	koji	_
 7	je	_
-8	Amerikancima	B-PER
+8	Amerikancima	B-OTH
 9	ukrao	_
 10	Divlji	B-LOC
 11	zapad	I-LOC
@@ -90560,7 +90560,7 @@
 6	pomoć	_
 7	unesrećenome	_
 8	mladom	_
-9	Austrijancu	B-PER
+9	Austrijancu	B-OTH
 10	agresivni	_
 11	je	_
 12	Hebar	B-PER
@@ -90630,7 +90630,7 @@
 25	doli	_
 26	drastično	_
 27	kazniti	_
-28	Slovenca	B-PER
+28	Slovenca	B-OTH
 29	.	_
 
 # sent_id = news.hr-s730
@@ -92237,7 +92237,7 @@
 8	,	_
 9	kći	_
 10	najbogatijeg	_
-11	Talijana	B-PER
+11	Talijana	B-OTH
 12	Silvija	B-PER
 13	Berlusconija	I-PER
 14	i	_
@@ -101396,7 +101396,7 @@
 1	Kako	_
 2	kaže	_
 3	,	_
-4	Nijemci	B-PER
+4	Nijemci	B-OTH
 5	su	_
 6	kudikamo	_
 7	otvoreniji	_
@@ -101405,7 +101405,7 @@
 10	načine	_
 11	liječenja	_
 12	od	_
-13	Hrvata	B-PER
+13	Hrvata	B-OTH
 14	.	_
 
 # sent_id = news.hr-s1337
@@ -101891,10 +101891,10 @@
 
 # sent_id = news.hr-s1353
 # text = Hrvati su od Izraelaca kudikamo sramežljiviji kad treba zatražiti pomoć zbog duševnih problema.
-1	Hrvati	B-PER
+1	Hrvati	B-OTH
 2	su	_
 3	od	_
-4	Izraelaca	B-PER
+4	Izraelaca	B-OTH
 5	kudikamo	_
 6	sramežljiviji	_
 7	kad	_
@@ -103123,7 +103123,7 @@
 11	čudo	_
 12	i	_
 13	da	_
-14	Kinezi	B-PER
+14	Kinezi	B-OTH
 15	tom	_
 16	metodom	_
 17	uspješno	_
@@ -103258,7 +103258,7 @@
 9	još	_
 10	1976.	_
 11	dr.	_
-12	Pomeranz	B-PER
+12	Pomeranz	B-OTH
 13	sa	_
 14	Zavoda	B-ORG
 15	za	I-ORG
@@ -103561,7 +103561,7 @@
 11	što	_
 12	su	_
 13	stari	_
-14	Kinezi	B-PER
+14	Kinezi	B-OTH
 15	odavno	_
 16	koristili	_
 17	u	_
@@ -103588,7 +103588,7 @@
 
 # sent_id = news.hr-s1413
 # text = Ukrajinac Vladimir Kaliničenko već se 20 godina bavi manualnom terapijom, kombinacijom masaže, kiropraktike, masaže toplim i hladnim kuglama i učenjem kako pravilno disati.
-1	Ukrajinac	B-PER
+1	Ukrajinac	B-OTH
 2	Vladimir	B-PER
 3	Kaliničenko	I-PER
 4	već	_
@@ -110230,7 +110230,7 @@
 
 # sent_id = news.hr-s1732
 # text = Zagrepčanin Nikola Žinić od djetinjstva je crtao stripove i oslikavao, kako kaže, sve legalne i ilegalne površine, a studirao je arhitekturu i nakon toga dizajn.
-1	Zagrepčanin	B-PER
+1	Zagrepčanin	B-OTH
 2	Nikola	B-PER
 3	Žinić	I-PER
 4	od	_
@@ -116078,7 +116078,7 @@
 10	je	_
 11	kriza	_
 12	ohladila	_
-13	Hrvate	B-PER
+13	Hrvate	B-OTH
 14	od	_
 15	opsesivnog	_
 16	šopinga	_
@@ -121005,7 +121005,7 @@
 4	strah	_
 5	i	_
 6	među	_
-7	Hrvate	B-PER
+7	Hrvate	B-OTH
 8	,	_
 9	štednja	_
 10	u	_
@@ -121061,7 +121061,7 @@
 2	da	_
 3	je	_
 4	rastrošnost	_
-5	Hrvata	B-PER
+5	Hrvata	B-OTH
 6	presahnula	_
 7	još	_
 8	2006.	_
@@ -122408,7 +122408,7 @@
 15	kojima	_
 16	danas	_
 17	žive	_
-18	Hrvati	B-PER
+18	Hrvati	B-OTH
 19	kao	_
 20	većinski	_
 21	ili	_
@@ -126133,7 +126133,7 @@
 17	tržišta	_
 18	86	_
 19	posto	_
-20	Austrijanaca	B-PER
+20	Austrijanaca	B-OTH
 21	redovito	_
 22	kupuje	_
 23	ekološke	_
@@ -126627,7 +126627,7 @@
 6	i	_
 7	vjerske	_
 8	institucije	_
-9	Hrvata	B-PER
+9	Hrvata	B-OTH
 10	u	_
 11	BiH	B-LOC
 12	.	_
@@ -127146,7 +127146,7 @@
 26	srpnju	_
 27	1991.	_
 28	,	_
-29	Hrvati	B-PER
+29	Hrvati	B-OTH
 30	su	_
 31	već	_
 32	u	_
@@ -128402,7 +128402,7 @@
 # sent_id = web.hr-s83
 # text = Prosječni Hrvat na internetu provede 15 sati tjedno.
 1	Prosječni	_
-2	Hrvat	B-PER
+2	Hrvat	B-OTH
 3	na	_
 4	internetu	_
 5	provede	_
@@ -129202,7 +129202,7 @@
 # sent_id = web.hr-s123
 # text = I Francuzi su se srčano borili, no ovo je bio naš dan.
 1	I	_
-2	Francuzi	B-PER
+2	Francuzi	B-OTH
 3	su	_
 4	se	_
 5	srčano	_
@@ -131463,7 +131463,7 @@
 # text = Ipak, Finac nije zabrinut.
 1	Ipak	_
 2	,	_
-3	Finac	B-PER
+3	Finac	B-OTH
 4	nije	_
 5	zabrinut	_
 6	.	_
@@ -135578,7 +135578,7 @@
 22	je	_
 23	glavni	_
 24	glumac	_
-25	Britanac	B-PER
+25	Britanac	B-OTH
 26	.	_
 
 # sent_id = web.hr-s425
@@ -136663,7 +136663,7 @@
 9	rekord	_
 10	po	_
 11	broju	_
-12	Hrvata	B-PER
+12	Hrvata	B-OTH
 13	u	_
 14	glavnom	_
 15	turniru	_
@@ -137804,7 +137804,7 @@
 7	ne	_
 8	prolaze	_
 9	kod	_
-10	Amerikanaca	B-PER
+10	Amerikanaca	B-OTH
 
 # sent_id = web.hr-s538
 # text = Mjestimice je moguć slab snijeg, osobito u Slavoniji, Posavini, na Banovini, Kordunu i u Lici.
@@ -138643,7 +138643,7 @@
 
 # sent_id = web.hr-s578
 # text = Amerikanac Nicky Hayden upisao je odlično drugo vrijeme, ispred Nijemca Stefana Bradla na LCR Hondi i momčadskog kolege Doviziosa.
-1	Amerikanac	B-PER
+1	Amerikanac	B-OTH
 2	Nicky	B-PER
 3	Hayden	I-PER
 4	upisao	_
@@ -138653,7 +138653,7 @@
 8	vrijeme	_
 9	,	_
 10	ispred	_
-11	Nijemca	B-PER
+11	Nijemca	B-OTH
 12	Stefana	B-PER
 13	Bradla	I-PER
 14	na	_
@@ -145304,7 +145304,7 @@
 7	Domovinskom	B-OTH
 8	ratu	I-OTH
 9	,	_
-10	Hrvati	B-PER
+10	Hrvati	B-OTH
 11	su	_
 12	ponovno	_
 13	razjedinjeni	_
@@ -146185,7 +146185,7 @@
 4	,	_
 5	gospodo	_
 6	,	_
-7	Iliri	B-PER
+7	Iliri	B-OTH
 8	,	_
 9	uda	_
 10	velikoga	_
@@ -146370,7 +146370,7 @@
 
 # sent_id = web.hr-s977
 # text = Finac je odvozio utrku po špagi i donio momčadi Rona Dennisa razloge za zadovoljstvo.
-1	Finac	B-PER
+1	Finac	B-OTH
 2	je	_
 3	odvozio	_
 4	utrku	_
@@ -150106,7 +150106,7 @@
 8	naciji	_
 9	,	_
 10	svim	_
-11	Hrvatima	B-PER
+11	Hrvatima	B-OTH
 12	,	_
 13	nastojeći	_
 14	da	_
@@ -151104,7 +151104,7 @@
 
 # sent_id = web.hr-s1228
 # text = Hebrej to nikada ne bi učinio za Samarijanca u nevolji.
-1	Hebrej	B-PER
+1	Hebrej	B-OTH
 2	to	_
 3	nikada	_
 4	ne	_
@@ -151376,7 +151376,7 @@
 8	,	_
 9	ali	_
 10	žilavih	_
-11	Luksemburžana	B-PER
+11	Luksemburžana	B-OTH
 12	,	_
 13	pri	_
 14	čemu	_
@@ -151678,7 +151678,7 @@
 10	opasnosti	_
 11	od	_
 12	strane	_
-13	Portugalaca	B-PER
+13	Portugalaca	B-OTH
 14	nije	_
 15	ni	_
 16	bilo	_
@@ -153069,7 +153069,7 @@
 # text = Uvjereni je židov i redovito i s radošću izvršava sve svoje dužnosti koje proizlaze iz toga.
 1	Uvjereni	_
 2	je	_
-3	židov	B-PER
+3	židov	B-OTH
 4	i	_
 5	redovito	_
 6	i	_
@@ -165169,7 +165169,7 @@
 # text = Iako je Dalmatinca nadasve teško pobijediti u briškuli, Zagorca u beli, a Baranjca i Slavonca u spremanju fišpaprikaša, treće mjesto ipak je osvojila domaća ekipa znakovita imena "Bilo mi je vrime" za koju su kuhali Stipe Jerković i Mate Katuša
 1	Iako	_
 2	je	_
-3	Dalmatinca	B-PER
+3	Dalmatinca	B-OTH
 4	nadasve	_
 5	teško	_
 6	pobijediti	_
@@ -165183,7 +165183,7 @@
 14	a	_
 15	Baranjca	B-PER
 16	i	_
-17	Slavonca	B-PER
+17	Slavonca	B-OTH
 18	u	_
 19	spremanju	_
 20	fišpaprikaša	_
@@ -169577,7 +169577,7 @@
 
 # sent_id = web.hr-s2147
 # text = Hrvati su vrlo otvoreni ljudi koji vole zezanciju i lude provode.
-1	Hrvati	B-PER
+1	Hrvati	B-OTH
 2	su	_
 3	vrlo	_
 4	otvoreni	_

@@ -71,7 +71,7 @@
 17	unapređenju	_
 18	života	_
 19	kosovskih	_
-20	Srba	B-PER
+20	Srba	B-OTH
 21	,	_
 22	oporba	_
 23	ih	_
@@ -338,7 +338,7 @@
 11	unaprijediti	_
 12	život	_
 13	kosovskih	_
-14	Srba	B-PER
+14	Srba	B-OTH
 15	,	_
 16	oporba	_
 17	ga	_
@@ -568,7 +568,7 @@
 4	primili	_
 5	i	_
 6	kosovski	_
-7	Srbi	B-PER
+7	Srbi	B-OTH
 8	.	_
 
 # sent_id = set.hr-s318
@@ -579,7 +579,7 @@
 4	jedan	_
 5	od	_
 6	predstavnika	_
-7	Srba	B-PER
+7	Srba	B-OTH
 8	sa	_
 9	sjevera	_
 10	Kosova	B-LOC
@@ -646,7 +646,7 @@
 4	Trajković	I-PER
 5	,	_
 6	predstavnica	_
-7	Srba	B-PER
+7	Srba	B-OTH
 8	koji	_
 9	žive	_
 10	u	_
@@ -691,7 +691,7 @@
 22	uvjeta	_
 23	života	_
 24	lokalnih	_
-25	Srba	B-PER
+25	Srba	B-OTH
 26	"	_
 27	,	_
 28	kazala	_
@@ -1608,7 +1608,7 @@
 9	članice	_
 10	Saveza	B-ORG
 11	obuku	_
-12	Iračana	B-PER
+12	Iračana	B-OTH
 13	provode	_
 14	pod	_
 15	vlastitim	_
@@ -2114,7 +2114,7 @@
 2	se	_
 3	u	_
 4	lisnicama	_
-5	Rumunja	B-PER
+5	Rumunja	B-OTH
 6	nalazi	_
 7	oko	_
 8	6,2	_
@@ -2512,7 +2512,7 @@
 1	Međutim	_
 2	,	_
 3	neki	_
-4	Rumunji	B-PER
+4	Rumunji	B-OTH
 5	i	_
 6	dalje	_
 7	su	_
@@ -3045,7 +3045,7 @@
 29	povlastice	_
 30	za	_
 31	etničke	_
-32	Albance	B-PER
+32	Albance	B-OTH
 33	,	_
 34	veterane	_
 35	sukoba	_
@@ -3125,7 +3125,7 @@
 12	,	_
 13	pozivajući	_
 14	etničke	_
-15	Albance	B-PER
+15	Albance	B-OTH
 16	na	_
 17	povlačenje	_
 18	iz	_
@@ -3997,7 +3997,7 @@
 
 # sent_id = set.hr-s1192
 # text = Srbi čekaju u redu kako bi tijekom komemoracijske svečanosti odali počast ubijenom premijeru Zoranu Đinđiću u Aleji velikana na beogradskom središnjem groblju.
-1	Srbi	B-PER
+1	Srbi	B-OTH
 2	čekaju	_
 3	u	_
 4	redu	_
@@ -6375,7 +6375,7 @@
 # sent_id = set.hr-s1955
 # text = Kosovski Albanci, koji čine oko 90 posto ukupnog stanovništva pokrajine od oko 2 milijuna ljudi, traže punu neovisnost od Srbije.
 1	Kosovski	_
-2	Albanci	B-PER
+2	Albanci	B-OTH
 3	,	_
 4	koji	_
 5	čine	_
@@ -7103,7 +7103,7 @@
 18	koju	_
 19	vode	_
 20	bosanski	_
-21	Srbi	B-PER
+21	Srbi	B-OTH
 22	,	_
 23	i	_
 24	Federacije	B-LOC
@@ -7112,9 +7112,9 @@
 27	u	_
 28	kojoj	_
 29	dominiraju	_
-30	Bošnjaci	B-PER
+30	Bošnjaci	B-OTH
 31	i	_
-32	Hrvati	B-PER
+32	Hrvati	B-OTH
 33	--	_
 34	povezana	_
 35	slabim	_
@@ -7126,7 +7126,7 @@
 # text = Političari bosanski Srbi prijetili su kako će ustrajavati na odcjepljenju RS-a, dok su neki bošnjački čelnici pozivali na ukidanje entiteta.
 1	Političari	_
 2	bosanski	_
-3	Srbi	B-PER
+3	Srbi	B-OTH
 4	prijetili	_
 5	su	_
 6	kako	_
@@ -7980,7 +7980,7 @@
 14	veće	_
 15	frustriranosti	_
 16	kosovskih	_
-17	Albanaca	B-PER
+17	Albanaca	B-OTH
 18	zbog	_
 19	zastoja	_
 20	u	_
@@ -9310,7 +9310,7 @@
 12	30	_
 13	posto	_
 14	,	_
-15	Crnogorci	B-PER
+15	Crnogorci	B-OTH
 16	se	_
 17	sučeljavaju	_
 18	sa	_
@@ -11922,7 +11922,7 @@
 18	Galeb	B-OTH
 19	zaplijenili	_
 20	su	_
-21	Nijemci	B-PER
+21	Nijemci	B-OTH
 22	1943.	_
 23	godine	_
 24	.	_
@@ -13501,7 +13501,7 @@
 1	Beograd	B-LOC
 2	i	_
 3	kosovski	_
-4	Srbi	B-PER
+4	Srbi	B-OTH
 5	oštro	_
 6	se	_
 7	protive	_
@@ -13770,7 +13770,7 @@
 13	kako	_
 14	strana	_
 15	kosovskih	_
-16	Albanaca	B-PER
+16	Albanaca	B-OTH
 17	neće	_
 18	prihvatiti	_
 19	"	_
@@ -14125,7 +14125,7 @@
 13	od	_
 14	dvije	_
 15	trećine	_
-16	Srba	B-PER
+16	Srba	B-OTH
 17	još	_
 18	uvijek	_
 19	protive	_
@@ -22128,7 +22128,7 @@
 11	te	_
 12	punopravno	_
 13	sudjelovanje	_
-14	Alžiraca	B-PER
+14	Alžiraca	B-OTH
 15	u	_
 16	upravi	_
 17	.	_
@@ -22950,7 +22950,7 @@
 
 # sent_id = web.hr-s494
 # text = Slovenci ne žele zajedničku kontrolu zračnog prostora s Hrvatskom
-1	Slovenci	B-PER
+1	Slovenci	B-OTH
 2	ne	_
 3	žele	_
 4	zajedničku	_
@@ -26823,7 +26823,7 @@
 
 # sent_id = web.hr-s1940
 # text = Libijci su skupni naziv za 140 plemena raznih beduina i sl.
-1	Libijci	B-PER
+1	Libijci	B-OTH
 2	su	_
 3	skupni	_
 4	naziv	_
